@@ -1,0 +1,22 @@
+    <table border=1>
+        <thead>
+            <tr>
+                <th>Nom</th>
+                <th>Prenom</th>
+                <th>Adresse</th>
+                <th>Code Postal</th>
+                <th>Ville</th>
+                <th>Pays</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Riviere</td>
+                <td>Wilfrid</td>
+                <td>82 rue Emile Evan</td>
+                <td>97431</td>
+                <td>Plaine des Palmistes</td>
+                <td>La Réunion</td>
+            </tr>
+        </tbody>
+    </table>
